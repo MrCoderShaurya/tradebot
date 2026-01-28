@@ -1,0 +1,3 @@
+2026-01-28 12:56:44,688 - bot.validators - INFO - Order parameters validated successfully.
+2026-01-28 12:56:44,689 - bot.orders - INFO - Created order payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-01-28 12:56:44,689 - __main__ - ERROR - Validation error: Binance API key and secret must be set as environment variables.
